@@ -38,10 +38,8 @@ pip install -r requirements.txt
 python run.py
 
 ## Dataset
-Mention the dataset name and source.
+https://drive.google.com/drive/folders/1Z88wnCXXhULKHN5adZsNZmERAqriugxK?usp=drive_link
 
 ## Author
 Anusree Buchupalli
 
-Dataset 
-https://drive.google.com/drive/folders/1Z88wnCXXhULKHN5adZsNZmERAqriugxK?usp=drive_link
